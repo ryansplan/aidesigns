@@ -1,4 +1,4 @@
-# AI Designs
+# AI Designs (just to name a few)
 ## [Fashion](https://github.com/ryansplan/aidesigns/wiki/Fashion)
 
 ## [Films](https://github.com/ryansplan/aidesigns/wiki/Films)
