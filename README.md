@@ -1,4 +1,6 @@
 # AI Designs (just to name a few)
+## [Comic Books](https://github.com/ryansplan/aidesigns/wiki/Comic-Books)
+
 ## [Fashion](https://github.com/ryansplan/aidesigns/wiki/Fashion)
 
 ## [Films](https://github.com/ryansplan/aidesigns/wiki/Films)
